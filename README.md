@@ -33,7 +33,10 @@ When orders are released to the warehouse, the system creates `load lines` and g
    - discrete order picking
       - one order-picker picks one order, one line at a time
       - ideal for paper based picking
-   - zone picking 区域拣货
+      - 摘果式(Discreet picking)：在一次拣货旅行时中把一个订单中所有需要的商品全部拣出
+   - 先拣后播式(Batch picking and Batch sorting)
+      - 合并多个订单的需求，在一次行走将一个或多个商品按总量拣出，然后再进行重新分播到各个订单，需要额外的工作场地或设施进行分播处理
+   - zone picking 分区接力式
    - batch picking 批量拣货
    - piece picking 零拣
    - cluster picking 集中拣货
