@@ -1,0 +1,2 @@
+# glossary
+WMS glossary
