@@ -6,6 +6,9 @@
 
 ## Inbound
 
+case level receiving,  single scan receiving, catch weight
+putaway restrictions, quality check process, rainbow pallet putaway
+
 ## Outbound
 
 ### Picking 拣货/拣选
@@ -22,6 +25,22 @@
    - zone-wave picking
    - zone-batch-wave picking
 
+dynamic picking, dynamic case picks, multiple pallet picks, fulfill batch pick orders
+
+### Loading 装车
+
+RF directed loading, load scheduling, load plan, RF load tasks, shipping loaded orders
+
+### Misc
+
+wave planning, sortation tasks, dynamic allocation & picking,`
+
 ## 通用词汇
 
-direct 指引
+direct, damage, loss, shortage, scrap rate, lead time, inspection, stock-out rate, label printing, overdue
+options, setup
+
+Single-Piece-Orders (SPO), Multi-Piece-Orders (MPO) 
+
+slotting, allocation, pre-allocation, task dispatch strategy, substrategy, order selection and eligibility, order sequencing, lane, pick and drop
+cherry pick replenishment tasks, 
