@@ -30,7 +30,7 @@ When orders are released to the warehouse, the system creates `load lines` and g
 ### Picking 拣货/拣选
 
 - pick method 拣货方式
-   - discrete order picking
+   - discrete order picking(pick-by-order)
       - one order-picker picks one order, one line at a time
       - ideal for paper based picking
       - 摘果式(Discreet picking)：在一次拣货旅行时中把一个订单中所有需要的商品全部拣出
