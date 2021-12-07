@@ -80,6 +80,7 @@ inventory reservation, workload,
 slotting, allocation, pre-allocation, task dispatch strategy, substrategy, order selection and eligibility, order sequencing, lane, pick and drop
 cherry pick replenishment tasks, Warehouse slotting, consolidate
 
+due date
 
 ## References
 
