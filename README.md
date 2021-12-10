@@ -4,6 +4,14 @@
 
 ![](assets/img/picking-ecosystem.webp)
 
+## 业界标准用词
+
+主要参考对象：Infor WMS，FLUX
+
+bin 库位, strategy key, Transship 转运, Opportunistic 见缝插针, forward pick 预拣货, preset criteria 预先设定标准
+appointment 入库预约, task interleaving 任务交叉(叉车去putaway，顺便回来的路上完成一个 picking task)
+kitting 配套, assembly 组装, labeling 贴标签,
+
 ## Inbound
 
 case level receiving,  single scan receiving, catch weight
@@ -72,6 +80,8 @@ direct, damage, loss, shortage, scrap rate, lead time, inspection, stock-out rat
 options, setup, mandatory, partial, the process can be finalized
 
 Single-Piece-Orders (SPO), Multi-Piece-Orders (MPO) 
+
+mass, remedy for
 
 sales orders, returns, transfer orders, production orders, 
 
