@@ -83,6 +83,17 @@ Single-Piece-Orders (SPO), Multi-Piece-Orders (MPO)
 
 mass, remedy for
 
+portfolio receipt consolidate
+
+piece picking, case picking, pallet picking, cluster picking, batch picking, 
+blind receiving, count back
+dock door(Yard Managment System)
+operator and supervisor
+hard allocation: A WMS process in which the specific location where an item to be picked from is assigned.
+
+预占库存 reserve inventory
+sorting(of picked orders): group picked orders by customer orders
+
 sales orders, returns, transfer orders, production orders, 
 
 inventory reservation, workload, 
@@ -90,7 +101,7 @@ inventory reservation, workload,
 slotting, allocation, pre-allocation, task dispatch strategy, substrategy, order selection and eligibility, order sequencing, lane, pick and drop
 cherry pick replenishment tasks, Warehouse slotting, consolidate
 
-due date
+due date, tailored, justify,
 
 ## References
 
