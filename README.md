@@ -93,6 +93,7 @@ hard allocation: A WMS process in which the specific location where an item to b
 
 预占库存 reserve inventory
 sorting(of picked orders): group picked orders by customer orders
+Kitting 打包
 
 sales orders, returns, transfer orders, production orders, 
 
